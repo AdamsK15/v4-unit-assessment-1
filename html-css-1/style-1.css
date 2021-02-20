@@ -1,0 +1,50 @@
+/* // Header // */
+.welcome {
+    
+}
+
+.Skills-Head {
+    width: 735px;
+    background-color: salmon;
+}
+
+.Head-Menu {
+    border-style: border-box;
+    display: inline;
+}
+.Head-Menu li {
+    display: inline;
+    word-spacing: 50px;
+}
+
+/* // Html // */
+
+.html-box {
+    border: 5px;
+    border-style: dotted;
+    margin-bottom: 10px;
+}
+
+.html-title {
+    margin-left: 10px;
+}
+
+.Html-Paragraph {
+    margin-left: 10px;
+}
+
+/* // CSS // */
+
+.css-box {
+    border: 5px;
+    border-style: dotted;
+}
+
+.css-title {
+    margin-left: 10px;
+    font-size: 24px;
+}
+
+.CSS3-Paragraph {
+    margin-left: 10px;
+}
