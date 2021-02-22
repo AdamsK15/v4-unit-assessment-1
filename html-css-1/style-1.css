@@ -1,10 +1,10 @@
 /* // Header // */
-.welcome {
-    
+.heading {
+    background-color: salmon;
 }
 
 .Skills-Head {
-    width: 735px;
+    width: 100%;
     background-color: salmon;
 }
 
@@ -12,9 +12,15 @@
     border-style: border-box;
     display: inline;
 }
+
 .Head-Menu li {
     display: inline;
     word-spacing: 50px;
+    font-size: 18px;
+}
+
+.welcome {
+    width: 100%;
 }
 
 /* // Html // */
